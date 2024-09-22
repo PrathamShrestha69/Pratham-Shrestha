@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Pratham-Shrestha/static/css/main.d9ba8b55.css",
+    "main.js": "/Pratham-Shrestha/static/js/main.7d2ba4ae.js",
+    "static/js/592.242c6abb.chunk.js": "/Pratham-Shrestha/static/js/592.242c6abb.chunk.js",
+    "static/media/copeople.png": "/Pratham-Shrestha/static/media/copeople.90e4e0b057771790c416.png",
+    "index.html": "/Pratham-Shrestha/index.html",
+    "main.d9ba8b55.css.map": "/Pratham-Shrestha/static/css/main.d9ba8b55.css.map",
+    "main.7d2ba4ae.js.map": "/Pratham-Shrestha/static/js/main.7d2ba4ae.js.map",
+    "592.242c6abb.chunk.js.map": "/Pratham-Shrestha/static/js/592.242c6abb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9ba8b55.css",
+    "static/js/main.7d2ba4ae.js"
+  ]
+}
