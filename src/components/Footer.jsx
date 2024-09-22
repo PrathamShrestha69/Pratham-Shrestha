@@ -21,6 +21,8 @@ const Footer = () => {
             <FiMail className="text-xl" />
           </a>
           <a
+            without
+            rel="noreferrer"
             href="https://www.linkedin.com/in/pratham-shrestha-5254b3317/"
             target="_blank"
             className="transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1"
@@ -29,6 +31,8 @@ const Footer = () => {
             <AiFillLinkedin className="text-xl" />
           </a>
           <a
+            without
+            rel="noreferrer"
             href="https://github.com/PrathamShrestha69"
             target="_blank"
             className="transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1"
@@ -37,6 +41,8 @@ const Footer = () => {
             <FaGithub className="text-xl" />
           </a>
           <a
+            without
+            rel="noreferrer"
             href="https://www.instagram.com/pratham_shrestha69?igsh=Z2Z1b25obHg3cHhs/"
             target="_blank"
             className="transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1"

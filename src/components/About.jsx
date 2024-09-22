@@ -43,6 +43,8 @@ const About = () => {
                 className="text-green-300 hover:text-green-500 duration-300"
                 href="https://www.linkedin.com/in/nithin-manda-728019214/"
                 target="_blank"
+                without
+                rel="noreferrer"
               >
                 Software developer
               </a>{" "}
@@ -54,6 +56,8 @@ const About = () => {
                 className=" text-purple-300 hover:text-purple-400 duration-300"
                 href="https://www.instagram.com/pratham_shrestha69?igsh=Z2Z1b25obHg3cHhs"
                 target="_blank"
+                without
+                rel="noreferrer"
               >
                 Medium
               </a>
