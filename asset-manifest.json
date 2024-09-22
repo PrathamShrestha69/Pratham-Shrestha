@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Pratham-Shrestha/static/css/main.d9ba8b55.css",
-    "main.js": "/Pratham-Shrestha/static/js/main.7d2ba4ae.js",
+    "main.css": "/Pratham-Shrestha/static/css/main.42b16fcc.css",
+    "main.js": "/Pratham-Shrestha/static/js/main.4db737ad.js",
     "static/js/592.242c6abb.chunk.js": "/Pratham-Shrestha/static/js/592.242c6abb.chunk.js",
     "static/media/copeople.png": "/Pratham-Shrestha/static/media/copeople.90e4e0b057771790c416.png",
     "index.html": "/Pratham-Shrestha/index.html",
-    "main.d9ba8b55.css.map": "/Pratham-Shrestha/static/css/main.d9ba8b55.css.map",
-    "main.7d2ba4ae.js.map": "/Pratham-Shrestha/static/js/main.7d2ba4ae.js.map",
+    "main.42b16fcc.css.map": "/Pratham-Shrestha/static/css/main.42b16fcc.css.map",
+    "main.4db737ad.js.map": "/Pratham-Shrestha/static/js/main.4db737ad.js.map",
     "592.242c6abb.chunk.js.map": "/Pratham-Shrestha/static/js/592.242c6abb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9ba8b55.css",
-    "static/js/main.7d2ba4ae.js"
+    "static/css/main.42b16fcc.css",
+    "static/js/main.4db737ad.js"
   ]
 }
