@@ -14,6 +14,8 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <HashRouter>
     <Navbar />
+    <Home />
+    you
     <Routes>
       <Route path="/" element={<Home />} />
       {/*        <Route path='/experience' element={<Experience/>}/> */}
