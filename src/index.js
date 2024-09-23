@@ -15,7 +15,7 @@ root.render(
   <HashRouter>
     <Navbar />
     <Home />
-    you
+
     <Routes>
       <Route path="/" element={<Home />} />
       {/*        <Route path='/experience' element={<Experience/>}/> */}

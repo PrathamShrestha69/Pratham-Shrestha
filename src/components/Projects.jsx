@@ -65,7 +65,7 @@ export const project = [
     description:
       "This project is a clone of the official Tesla website, built using ReactJS and Tailwind CSS. The clone replicates the sleek design and user interface of Tesla's homepage, featuring smooth animations, responsive layout, and engaging visuals. ",
     image: { copeople },
-    git: "https://github.com/nithingooud/CoPeople",
+    git: " https://github.com/PrathamShrestha69/tesla-website-clone",
     technologies: ["tailwind", "ReactJS", "NodeJS"],
   },
 ];
